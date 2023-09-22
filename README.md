@@ -1,4 +1,4 @@
-### Welcome! ♣
+**Welcome!** $\textcolor{green}{\textsf{♣}}$
 
 I am a Computer Science graduate with experience working on an internationally distributed team. I have not yet contributed to multiple open projects and am still learning my way through the community.
 
